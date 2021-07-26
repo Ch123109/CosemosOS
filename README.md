@@ -41,7 +41,7 @@ the whole system will be hard wired to the network meaning that the only open po
 ## Concept Art
 Home Screen:
 <br>
-  <img height=2480 src='https://cdn.discordapp.com/attachments/865871878688866334/869198303873601606/Lock_Screen_Concept.png' style='margin:3508px'>
+  <img height=2480 src='https://cdn.discordapp.com/attachments/865871878688866334/869198303873601606/Lock_Screen_Concept.png' style='margin:15px'>
 </a>
 <br>
 <br>
