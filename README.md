@@ -1,7 +1,7 @@
 
  
  <br>
-  <img height=100 src='https://cdn.discordapp.com/attachments/865871878688866334/869200352132624394/Cosemos_OS_Logo.png' style='margin:5px'>
+  <img height=591 src='https://cdn.discordapp.com/attachments/865871878688866334/869200352132624394/Cosemos_OS_Logo.png' style='margin:1181px'>
 </a>
 
  <br>
