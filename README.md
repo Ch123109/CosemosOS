@@ -126,59 +126,33 @@ Special thanks to our sponsors for supporting the project.
 
 Kingdom Gaming Discord:
 <br>
-<a href='https://discord.gg/kingdomgaming'>
   <img height=100 src='https://i.imgur.com/GLXfl4E.png' style='margin:5px'>
 </a>
 <br>
 <br>
 SirReddit:
 <br>
-<a href='https://www.youtube.com/channel/UCgSmBJD9imASmJRleycTCwQ/featured'>
   <img height=100 src='https://i.imgur.com/WyzaPKY.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Prime Servers Inc:
 <br>
-<a href='https://primeserversinc.com/'>
   <img height=100 src='https://i.imgur.com/sVcwtt8.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Real Madrid:
 <br>
-<a href='https://discord.gg/realmadrid'>
   <img height=100 src='https://i.imgur.com/9Rat2Qb.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Discord Advice Center:
 <br>
-<a href='https://discord.gg/zmwZy5fd9v'>
   <img height=100 src='https://i.imgur.com/1hrjcHd.png' style='margin:5px'>
 </a>
 
-Become a sponsor on [Patreon](https://patreon.com/kyber).
-
-## Plugins
-
-Modmail supports the use of third-party plugins to extend or add functionalities to the bot.
-Plugins allow niche features as well as anything else outside of the scope of the core functionality of Modmail. 
-
-You can find a list of third-party plugins using the `?plugins registry`  command or visit the [Unofficial List of Plugins](https://github.com/kyb3r/modmail/wiki/Unofficial-List-of-Plugins) for a list of plugins contributed by the community.
-
-To develop your own, check out the [plugins documentation](https://github.com/kyb3r/modmail/wiki/Plugins).
-
-Plugins requests and support are available in our [Modmail Support Server](https://discord.gg/j5e9p8w).
-
-## Contributing
-
-Contributions to Modmail are always welcome, whether it be improvements to the documentation or new functionality, please feel free to make the change. Check out our [contributing guidelines](https://github.com/kyb3r/modmail/blob/master/.github/CONTRIBUTING.md) before you get started.
-
-If you like this project and would like to show your appreciation, support us on **[Patreon](https://www.patreon.com/kyber)**!
-
 ## Beta Testing
 
-Our [development](https://github.com/kyb3r/modmail/tree/development) branch is where most of our features are tested before public release. Be warned that there could be bugs in various commands so keep it away from any large servers you manage.
-
-If you wish to test the new features and play around with them, feel free to join our [Public Test Server](https://discord.gg/v5hTjKC). Bugs can be raised within that server or in our Github issues (state that you are using the development branch though).
+Development Has not Currnelty Started, but you can join our discord and see when we do , you might be even able to help
