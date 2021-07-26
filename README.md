@@ -41,31 +41,31 @@ the whole system will be hard wired to the network meaning that the only open po
 ## Concept Art
 Home Screen:
 <br>
-  <img height=900 src='https://cdn.discordapp.com/attachments/865871878688866334/869198303873601606/Lock_Screen_Concept.png' style='margin:5px'>
+  <img height=850 src='https://cdn.discordapp.com/attachments/865871878688866334/869198303873601606/Lock_Screen_Concept.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Login Screen:
 <br>
-  <img height=2480 src='https://cdn.discordapp.com/attachments/865871878688866334/869198304339193856/Login_Screen_Prompt_Concept.png' style='margin:3508px'>
+  <img height=850 src='https://cdn.discordapp.com/attachments/865871878688866334/869198304339193856/Login_Screen_Prompt_Concept.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Incorrect Password:
 <br>
-  <img height=2480 src='https://cdn.discordapp.com/attachments/865871878688866334/869198304259498025/Login_Screen_Prompt_Incorrect_Conept.png'>
+  <img height=850 src='https://cdn.discordapp.com/attachments/865871878688866334/869198304259498025/Login_Screen_Prompt_Incorrect_Conept.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Logging in screen:
 <br>
-  <img height=2480 src='https://cdn.discordapp.com/attachments/865871878688866334/869198302946689034/Login_Screen_Logging-in_Concept.png'>
+  <img height=850 src='https://cdn.discordapp.com/attachments/865871878688866334/869198302946689034/Login_Screen_Logging-in_Concept.png' style='margin:5px'>
 </a>
 <br>
 <br>
 Default Desktp:
 <br>
-  <img height=2480 src='https://cdn.discordapp.com/attachments/865871878688866334/869198283191517214/Desktop_Template_Concept.png'>
+  <img height=850 src='https://cdn.discordapp.com/attachments/865871878688866334/869198283191517214/Desktop_Template_Concept.png' style='margin:5px'>
 </a>
 
 ## More Updates Soon
