@@ -1,5 +1,10 @@
 
-  <br>
+ 
+ <br>
+  <img height=100 src='https://cdn.discordapp.com/attachments/865871878688866334/869200352132624394/Cosemos_OS_Logo.png' style='margin:5px'>
+</a>
+
+ <br>
   <strong><i>A feature-rich opperating system to use for crowd controll and ease of use.</i></strong>
   <br>
   <br>
