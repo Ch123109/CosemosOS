@@ -38,7 +38,7 @@ the server will also use end to end encryption to prevent a session key being in
 the kernel wil also be open to use to add plugins to the os , 
 the whole system will be hard wired to the network meaning that the only open ports for the servers will be an end to end encryption server with the job of dealing with remote orders
 
-## Concept Art
+## Default Concept Art
 Home Screen:
 <br>
   <img height=400 src='https://cdn.discordapp.com/attachments/865871878688866334/869198303873601606/Lock_Screen_Concept.png' style='margin:200px'>
