@@ -84,7 +84,7 @@ Notice Board:
 </a>
 * Simple Notice Board, all admins or announcer accounts can post a notice
 Containment Door Controll:
-* This is the simple UI for controlling doors 
+* This is the simple UI for controlling doors
 * To opperate the doors you will need to select a prefix i.e the paddocks and an id
 * id labels will be on blueprints or preferably when the installer installs the system the id's will be printed onto the door.
 * once selecting the door an authorised user controll account code must be entered.
@@ -100,7 +100,7 @@ Containment Door Controll:
 </a>
 Un Authorised / Authorised Door Openings:
 * When a door is opend from an onsite location like the keypads on the door , a message will pop-up on the acces controll user screens and the main screen at the front of the room
-*  if an access controll user presses on the warning it will pop-up on the big screen and thier screen 
+* if an access controll user presses on the warning it will pop-up on the big screen and thier screen
 * it will display the user account that did it , thier role and a button that can be used if needed to overide access and close the door
 <br>
   <img height=400 src='https://media.discordapp.net/attachments/704274865632444489/877350099565555782/Authorised_to_open.png?width=949&height=671' style='margin:200px'>
