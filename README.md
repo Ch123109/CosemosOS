@@ -68,22 +68,22 @@ Default Desktp:
   <img height=400 src='https://cdn.discordapp.com/attachments/865871878688866334/869198283191517214/Desktop_Template_Concept.png' style='margin:200px'>
 </a>
 ## Access Controll Concept Art
-Home Page:
+* **Home Page:**
 <br>
   <img height=400 src='https://cdn.discordapp.com/attachments/704274865632444489/877350097082531850/Desktop_Template_Access-controll_Concept.png' style='margin:200px'>
 </a>
 * This home page is designed to help the access controll user
-User Account Options:
+* **User Account Options:**
 <br>
   <img height=400 src='https://media.discordapp.net/attachments/704274865632444489/877350070184443994/Access_Controll-User_Options.png?width=949&height=671' style='margin:200px'>
 </a>
 * This Page will be on every account, this is a simple way to view and edit user account settings.
-Notice Board:
+* **Notice Board:**
 <br>
   <img height=400 src='https://cdn.discordapp.com/attachments/704274865632444489/877350086831636520/Desktop_template_Access-Controll_Notice-Board.png' style='margin:200px'>
 </a>
 * Simple Notice Board, all admins or announcer accounts can post a notice
-Containment Door Controll:
+* **Containment Door Controll:**
 * This is the simple UI for controlling doors
 * To opperate the doors you will need to select a prefix i.e the paddocks and an id
 * id labels will be on blueprints or preferably when the installer installs the system the id's will be printed onto the door.
@@ -98,7 +98,7 @@ Containment Door Controll:
 <br>
   <img height=400 src='https://media.discordapp.net/attachments/704274865632444489/877350102514171984/Door_Opening_Aleart.png?width=949&height=671' style='margin:200px'>
 </a>
-Un Authorised / Authorised Door Openings:
+* **Un Authorised / Authorised Door Openings:**
 * When a door is opend from an onsite location like the keypads on the door , a message will pop-up on the acces controll user screens and the main screen at the front of the room
 * if an access controll user presses on the warning it will pop-up on the big screen and thier screen
 * it will display the user account that did it , thier role and a button that can be used if needed to overide access and close the door
